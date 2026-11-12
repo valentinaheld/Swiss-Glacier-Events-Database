@@ -1,4 +1,4 @@
-glacier_id, name, canton, latitude, longitude, elevation_min, elevation_max
-CH-TRI, Triftgletscher (Weissmies), Valais, 46.1278, 8.0119, 2726, 4017
-CH-EIG, Eigergletscher, Bern, 46.5672, 7.9889, 3200, 3700
-CH-BIS, Bisgletscher (Weisshorn), Valais, 46.1115, 7.7354, 2000, 4500
+glacier_id, sgi_id, name, canton, latitude, longitude, elevation_min, elevation_max
+CH-TRI, ; Triftgletscher (Weissmies), Valais, 46.1278, 8.0119, 2726, 4017
+CH-EIG, A54m-03, Eigergletscher, Bern, 46.5672, 7.9889, 3200, 3700
+CH-BIS, B58-08, Bisgletscher (Weisshorn), Valais, 46.1115, 7.7354, 2000, 4500
