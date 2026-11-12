@@ -1,4 +1,4 @@
-glacier_id, sgi_id, name, canton, x_LV95, y_LV95, elevation_min, elevation_max
+glacier_id, sgi_id, name, canton, x_LV95, y_LV95, elevation_min_m, elevation_max_m, years_covered, corr_weather_stat
 CH-TRI, , Triftgletscher (Weissmies), Valais, 2'643'442.03, 1'109'076.10, 2726, 4017
 CH-EIG, A54m-03, Eigergletscher, Bern, 2'642'383.38, 1'157'411.00, 3200, 3700
 CH-BIS, B58-08, Bisgletscher (Weisshorn), Valais, 2'622'595.15, 1'106'555.02, 2000, 4500
