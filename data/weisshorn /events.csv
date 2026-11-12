@@ -1,1 +1,1 @@
-event_id, glacier_id, sector, date_min, date_max, time_min, time_max, magnitude_vol_m3, notes, trigger_type, image_reference, data_source
+event_id,glacier_id,sector,date_min,date_max,time_min,time_max,magnitude_vol_m3,notes,trigger_type,image_reference,data_source
