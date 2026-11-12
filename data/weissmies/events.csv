@@ -1,1 +1,1 @@
-event_id, date_start, date_end, time_start, time_end, magnitude_vol_m3, category_magnitude, geometry_notes, ice_flow_velocity_m_day, av_temperature, sum_precipitation, sum_sunshine, trigger_type, image_reference, data_source
+event_id, glacier_id, sector, date_min, date_max, time_min, time_max, magnitude_vol_m3, notes, trigger_type, image_reference, data_source
